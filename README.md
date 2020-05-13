@@ -10,4 +10,4 @@ To install the required libraries and run the script using the sample provided r
 - Lifousi Anna 
 
 ### Disclaimer
-This script is part of Project assigned to us as a team in the Embedded Systems class, **under no circumstances consider this professional or application solid work**. 
+This script is part of a project assigned to us as a team in the Embedded Systems class, **under no circumstances consider this professional or application solid work**. 
