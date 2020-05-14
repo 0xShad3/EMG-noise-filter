@@ -1,5 +1,5 @@
 # EMG-noise-filter
-Simple filter for EMG signals written in Python.
+Simple filter for EMG signals written in Python 3.
 
 ## Covering Dependencies and Usage
 To install the required libraries and run the script using the sample provided run the following commands.
